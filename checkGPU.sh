@@ -1,5 +1,5 @@
 var=0
-memory=6500
+memory=6500 # memory <= total_memory_of_a_device - required_memory
 sleep_time=600
 while [ $var -eq 0 ]
 do
